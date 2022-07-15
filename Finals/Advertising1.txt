@@ -1,0 +1,145 @@
+<html> 
+<head>
+    <title>PROJECT 2- MONDELO</title>
+	<link rel="stylesheet" type="text/css" href="Stylesheet.css">
+     <link href="https://fonts.googleapis.com/css?
+     family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i&display%3swap"
+	
+   
+    </head>
+
+    <body>
+	
+	 <div class="navg">
+        <div class="menu">
+            
+            <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Albums</a></li>
+            <li><a href="">Artists</a></li>
+            <li><a href="">Music</a></li>
+            <li><a href="">Contact</a></li>
+			<li
+                <li></li>
+                </li>
+            
+            </ul>
+		<div class="box">
+        <div class="subbox">
+		<div class="card">
+		<div class="front face img">
+		<img src="Linkin.jpg" width="200" height="200">
+       </div>
+	   
+	   
+		<div class="back face">
+		<hl>In The End</hl>
+		<p class="Artist">Linkin Park</p>
+		<p class="Date">2000</p>
+		<p class="Download"><a href="">Stream Now</a></p>
+			</div>
+			</div>
+			</div>
+			</div>
+   
+        <div class="box">
+        <div class="subbox">
+		<div class="card">
+		<div class="front face img">
+		<img src="5sos.jpg" width="200" height="200">
+		</div>
+	   
+	   <div class="back face">
+	   <hl>Amnesia</hl>
+	   <p class="Artist">5 Seconds of Summer</p>
+       <p class="Date">2004</p>
+       <p class="Download"><a href="">Stream Now</a></p>
+		</div>
+		</div>
+		</div>
+		</div>
+			<div class="box">
+        <div class="subbox">
+		<div class="card">
+		<div class="front face img">
+		<img src="NF.jpg" width="200" height="200">
+       </div>
+	   
+		<div class="back face">
+		<hl>Time</hl>
+		<p class="Artist">NF</p>
+		<p class="Date">2019</p>
+		<p class="Download"><a href="">Stream Now</a></p>
+			</div>
+			</div>
+			</div>
+			</div>
+			
+			
+		<div class="box">
+        <div class="subbox">
+		<div class="card">
+		<div class="front face img">
+		<img src="script.jpg" width="200" height="200">
+		</div>
+	   
+		<div class="back face">
+		<hl>Hall Of Fame</hl>
+		<p class="Artist">The Script</p>
+		<p class="Date">2012</p>
+		<p class="Download"><a href="">Stream Now</a></p>
+			</div>
+			</div>
+			</div>
+			</div>
+			
+		<div class="box">
+        <div class="subbox">
+		<div class="card">
+		<div class="front face img">
+		<img src="Joji.jpg" width="200" height="200">
+		</div>
+	   
+		<div class="back face">
+		<hl>Run</hl>
+		<p class="Artist">Joji</p>
+		<p class="Date">2022</p>
+		<p class="Download"><a href="">Stream Now</a></p>
+			</div>
+			</div>
+			</div>
+			</div>
+
+			
+			<div class="box">
+        <div class="subbox">
+		<div class="card">
+		<div class="front face img">
+		<img src="Mahika.jpg" width="200" height="200">
+       </div>
+	   
+	   
+		<div class="back face">
+		<hl>Mahika</hl>
+		<p class="Artist">Adie & Janine</p>
+		<p class="Date">2022</p>
+		<p class="Download"><a href="">Stream Now</a></p>
+			</div>
+			</div>
+			</div>
+	</div>
+	</div>
+	
+
+		  <div class="contents">
+            <h2><font>LISTEN</font> to new Music</h2>
+                <h3> Sign up for artist accounts on all major music streaming platforms and upload your produced tracks to give the public a hub to listen to your work. </h3>
+                <div class="buttons">
+                <button>Sign Up</button>
+                <button class="button02">Start Free trial</button>
+                </div>
+
+
+			
+    </body>
+</html>
